@@ -1,0 +1,40 @@
+
+
+// TUTORIAL BACK-END PEMULA
+
+// ketik npm init --y
+// buat server., lalu di save
+// ganti start di package.json jadi= ( "start": "Node (penempatan file server.js)") , lalu ketik npm run start
+// instal HAPI
+// ganti isi dari server.js sesuai text dicoding
+// save perubahan server.js
+// lalu ketik npm run start
+// test server local host:5000 (diklik/copy link), atau curl -x GET http://localhost:5000 (pasti colud not resolve)
+// buat routes.js 
+// isi routes.js 
+// file server.js diubah untuk setting routes.js 
+// ketik npm run start lagi
+// edit routes.js 
+// install nodemon 
+// replace start, dengan start nodemon pada package.json
+// install 
+// ketik     npx eslint -- init 
+// How would you like to use ESLint? -> To check, find problems, and enforce code style.
+// What type of modules does your project use? -> CommonJS (require/exports).
+// Which framework did you use? -> None of these. 
+// Does your project use TypeScript? -> N.
+// Where does your code run? -> Node (pilih menggunakan tanda panah atau spasi di keyboard).
+// How would you like to define a style for your project? -> Use a popular style guide.
+// Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh pilih AirBnB).
+// What format do you want your config file to be in? -> JSON.
+// Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
+// ketik npm run start
+// ketik npm run linit
+// buat file handler.js 
+// buat file projek/js , contoh notes.js , dll
+// isi handler.js 
+// instal nanoid
+// pastikan request nanoid tersedia dalam handler.js 
+// ubah routes.js untuk membuat handler.js dapat berjalan
+// ubah server.js agar routes.js dapat dikonfirmasi
+//
